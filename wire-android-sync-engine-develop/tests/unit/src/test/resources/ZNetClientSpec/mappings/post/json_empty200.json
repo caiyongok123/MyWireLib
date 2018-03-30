@@ -1,0 +1,12 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/post/json_empty200",
+        "bodyPatterns": [
+            { "equalToJson" : "{ \"key\": \"value\" }" }
+        ]
+    },
+    "response": {
+        "status": 200
+    }
+}

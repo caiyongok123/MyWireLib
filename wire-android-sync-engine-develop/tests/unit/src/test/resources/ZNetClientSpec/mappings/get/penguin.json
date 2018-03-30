@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/get/penguin"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "penguin.png",
+        "headers": {
+            "Content-Length": "129862",
+            "Content-Type": "image/png"
+        }
+    }
+}

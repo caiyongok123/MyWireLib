@@ -1,0 +1,13 @@
+{
+  "users":[
+    {
+        "name": "auto1 user",
+        "email": "auto1",
+        "password" : "auto1_pass"
+     }
+  ],
+
+  "conversations" : [
+  ]
+
+}

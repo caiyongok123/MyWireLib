@@ -1,0 +1,12 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/post/empty200",
+        "bodyPatterns": [
+            { "equalTo": "" }
+        ]
+    },
+    "response": {
+        "status": 200
+    }
+}
